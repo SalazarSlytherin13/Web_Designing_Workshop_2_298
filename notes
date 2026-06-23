@@ -1,0 +1,18 @@
+...\web designing workshop2\experiment9>
+npm create vite@latest . 
+<!-- you are already inside experiment9
+dot means "create project in current folder -->
+y
+react
+
+javascript 
+el
+y
+ctrl+click--->link
+<!-- start -->
+correct terminal
+npm run dev
+<!-- end -->
+ctrl+c
+<!-- bootstrap -->
+npm i bootstrap@5.3.8
